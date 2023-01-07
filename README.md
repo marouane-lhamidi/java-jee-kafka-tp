@@ -32,6 +32,7 @@ abstraction it provides over the native Kafka Java client APIs.
 
 
 1. Setting up the environment (Traditional):
+
     -Running Zookeper and Kafka.
 ![Code Demonstration](/assets/DownloadKafka.png)
     -Testing with Kafka-console-producer and kafka-console-consumer.
@@ -39,6 +40,7 @@ abstraction it provides over the native Kafka Java client APIs.
 
 
 2. Setting up the environment (Docker):
+
     -Running Zookeper and Kafka.
 ![Code Demonstration](/assets/dockerDowload.png)
     -Testing with Kafka-console-producer and kafka-console-consumer.
